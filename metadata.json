@@ -1,0 +1,10 @@
+{
+  "description": "Move hot corner to top-right.",
+  "name":  "Top-Right Hot Corner",
+  "shell-version": [
+    "3.20", "3.18", "3.16", "3.14", "3.12", "3.10", "3.8"
+  ],
+  "url": "https://github.com/lennykano/gnome-shell-extension-top-right-hot-corner/",
+  "uuid": "lennykano@gmail.com",
+  "version": 1
+}
